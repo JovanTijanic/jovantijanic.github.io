@@ -1,18 +1,26 @@
 h1 {
 color: white;
 padding-left: 50px;
+font-family; Avenir;
+font-size: 20px;
 }
 
 p {
 color: white;
 padding-left: 20px;
 padding-right: 40px;
+font-family: Avenir;
+font-size: 14px;
 }
 
 a:link{
-  color: blue
+  color: blue;
+  font-size: 14px;
+  font-family: Avenir;
 }
 
-a: visited link {
-  color: blue
+a: visited{
+  color: blue;
+  font-family: Avenir;
+  font-size: 14px;
 }
