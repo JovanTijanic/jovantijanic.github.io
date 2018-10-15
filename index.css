@@ -29,12 +29,12 @@ a:visited{
 
 .topnav {
 background-color: white;
-overflow:hidden;
 }
 
 .topnav a {
-padding-left: 10 px;
+padding: 10 px;
   font-size: 20px;
+  text-align: center;
 }
 
 .topnav a:hover{
