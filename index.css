@@ -40,15 +40,18 @@ a:visited{
 }
 
 .sidenav a {
-  width: 60 em;
   font-size: 20 px;
   text-align: center;
 }
 
 .sidenav a:hover{
-  width: 60 em;
 color: white;
-  background-color: blue;
+background-color: blue;
+}
+
+.sidenav li{
+padding-top: 20 px;
+padding-bottom: 20 px;
 }
 
 .main {
