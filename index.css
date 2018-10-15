@@ -32,18 +32,21 @@ background-color: white;
 }
 
 .topnav a {
-padding-left: 20 em;
-  padding-right: 20 em;
+  width: 30 em;
   font-size: 20 px;
   text-align: center;
 }
 
 .topnav a:hover{
+  width: 30 em;
 color: white;
   background-color: blue;
 }
 
 .topnav a:active{
-color:black;
-  background-color: white
+width: 30 em;
+  color:black;
+  background-color: white;
+  font-family: Avenir;
+  font-size: 20 px;
 }
