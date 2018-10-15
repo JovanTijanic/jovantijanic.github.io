@@ -32,12 +32,17 @@ background-color: white;
 }
 
 .topnav a {
-padding: 10 px;
-  font-size: 20px;
+padding: 50 px;
+  font-size: 20 px;
   text-align: center;
 }
 
 .topnav a:hover{
 color: white;
   background-color: blue;
+}
+
+.topnav a:active{
+color:black;
+  background-color: white
 }
