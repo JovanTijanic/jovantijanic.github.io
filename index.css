@@ -32,7 +32,8 @@ background-color: white;
 }
 
 .topnav a {
-padding: 50 px;
+padding-left: 20 em;
+  padding-right: 20 em;
   font-size: 20 px;
   text-align: center;
 }
