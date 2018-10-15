@@ -26,3 +26,18 @@ a:visited{
   font-size: 18px;
   text-decoration:none;
 }
+
+.topnav {
+background-color: white;
+overflow:hidden;
+}
+
+.topnav a {
+padding-left: 10 px;
+  font-size: 20px:
+}
+
+.topnav a:hover{
+color: white;
+  background-color: blue;
+}
