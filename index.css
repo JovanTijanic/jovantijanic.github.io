@@ -43,7 +43,7 @@ color: white;
   background-color: blue;
 }
 
-.topnav a:active{
+.topnav a.active{
 width: 30 em;
   color:black;
   background-color: white;
