@@ -10,14 +10,14 @@ font-family: Avenir;
 font-size: 18 px;
 }
 
-a:link{
+a:link {
   color: blue;
   font-size: 18 px;
   font-family: Avenir;
   text-decoration:none;
 }
 
-a:visited{
+a:visited {
   color: blue;
   font-family: Avenir;
   font-size: 18 px;
@@ -40,17 +40,17 @@ width: 40 em;
   text-align: center;
 }
 
-.sidenav a:hover{
+.sidenav a:hover {
 color: white;
 background-color: blue;
 }
 
-.main{
+.main {
 width: 25 em;
 float: right;
 }
 
-.clearme{
+.clearme {
 clear:both;
 }
 
