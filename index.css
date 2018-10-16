@@ -33,6 +33,7 @@ width: 40 em;
     height: 100%; 
     width: 15 em;
     float: left;
+    margin-right: 25 em;
 }
 
 .sidenav a {
@@ -48,6 +49,7 @@ background-color: blue;
 .main{
 width: 25 em;
 float: right;
+margin-left: 15 em;
 }
 
 .clearme{
