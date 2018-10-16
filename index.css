@@ -1,20 +1,20 @@
 h1 {
 color: white;
-margin-left: 220 px;
+margin-left: 240 px;
 font-family; Avenir;
 font-size: 20 px;
 }
 
 p {
 color: white;
-margin-left: 180 px;
+margin-left: 190 px;
 padding-right: 40 px;
 font-family: Avenir;
 font-size: 18 px;
 }
 
 li{
-margin-left: 180 px;
+margin-left: 190 px;
 }
 
 a:link{
