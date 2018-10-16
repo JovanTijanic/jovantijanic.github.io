@@ -50,4 +50,8 @@ width: 42 em;
 float: right;
 }
 
+.clearme{
+clear:both;
+}
+
 
