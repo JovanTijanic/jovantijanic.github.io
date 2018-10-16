@@ -2,20 +2,24 @@ h1 {
 color: white;
 margin-left: 210 px;
 font-family; Avenir;
-font-size: 20px;
+font-size: 20 px;
 }
 
 p {
 color: white;
-margin-left: 180px;
-padding-right: 40px;
+margin-left: 180 px;
+padding-right: 40 px;
 font-family: Avenir;
-font-size: 18px;
+font-size: 18 px;
+}
+
+li{
+margin-left: 180 px;
 }
 
 a:link{
   color: blue;
-  font-size: 18px;
+  font-size: 18 px;
   font-family: Avenir;
   text-decoration:none;
 }
@@ -23,7 +27,7 @@ a:link{
 a:visited{
   color: blue;
   font-family: Avenir;
-  font-size: 18px;
+  font-size: 18 px;
   text-decoration:none;
 }
 
@@ -36,7 +40,7 @@ a:visited{
     top: 0; 
     left: 0;
     overflow-x: hidden;
-    padding: 20px;
+    padding: 20 px;
 }
 
 .sidenav a {
