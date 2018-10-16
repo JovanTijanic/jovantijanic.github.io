@@ -24,9 +24,14 @@ a:visited{
   text-decoration:none;
 }
 
+.wrapper {
+width: 60 em;
+}
+
 .sidenav {
     background-color: white;
     height: 100%; 
+    width: 18 em;
 }
 
 .sidenav a {
@@ -38,4 +43,9 @@ a:visited{
 color: white;
 background-color: blue;
 }
+
+.main{
+width: 42 em;
+}
+
 
