@@ -25,13 +25,13 @@ a:visited{
 }
 
 .wrapper {
-width: 60 em;
+width: 40 em;
 }
 
 .sidenav {
     background-color: white;
     height: 100%; 
-    width: 18 em;
+    width: 15 em;
     float: left;
 }
 
@@ -46,7 +46,7 @@ background-color: blue;
 }
 
 .main{
-width: 42 em;
+width: 25 em;
 float: right;
 }
 
