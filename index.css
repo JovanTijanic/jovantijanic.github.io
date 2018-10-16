@@ -1,20 +1,13 @@
 h1 {
 color: white;
-margin-left: 0 px;
 font-family; Avenir;
 font-size: 20 px;
 }
 
 p {
 color: white;
-margin-left: 0 px;
-padding-right: 40 px;
 font-family: Avenir;
 font-size: 18 px;
-}
-
-li{
-margin-left: 0 px;
 }
 
 a:link{
@@ -34,13 +27,6 @@ a:visited{
 .sidenav {
     background-color: white;
     height: 100%; 
-    width: 180 px;
-    position: fixed; 
-    z-index: 1; 
-    top: 0; 
-    left: 0;
-    overflow-x: hidden;
-    padding: 20 px;
 }
 
 .sidenav a {
@@ -53,11 +39,3 @@ color: white;
 background-color: blue;
 }
 
-.sidenav li{
-padding-top: 20 px;
-padding-bottom: 20 px;
-}
-
-.main {
-margin-left: 0 px; 
-}
