@@ -10,6 +10,16 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg' style= "width:100%;height:100%" alt="Hubble Ultr Deep Field">
 </div>
 
+  <script>
+    
+function chk_ans()
+{my_elem = document.getElementById("ans");
+my_elem.innerHTML = "88 constellations";
+my_elem.style.color = "blue";
+}
+
+</script>
+  
 </head>
 
 <body>
@@ -25,6 +35,27 @@
   
   <div class="main">
     
+    <p>Astronomy (from Greek: ἀστρονομία) is a natural science that 
+      studies celestial objects and phenomena. It applies mathematics, 
+      physics, and chemistry, in an effort to explain the origin of those 
+      objects and phenomena and their evolution. Objects of interest 
+      include planets, moons, stars, galaxies, and comets; the phenomena 
+      include supernova explosions, gamma ray bursts, and cosmic microwave 
+      background radiation. More generally, all phenomena that originate 
+      outside Earth's atmosphere are within the purview of astronomy. 
+      A related but distinct subject, physical cosmology, is concerned with 
+      the study of the Universe as a whole.</p>
+    
   </div>
+  
+  <div id="quiz">
+  <h3>Question</h3>
+
+  <p>How many constellations are there in modern astronomy?
+    <span class="myquote" id="ans"> </span>
+    <button onClick="chk_ans()">Check Answer</button>
+    </p>
+
+</div>
                              
 </body>
