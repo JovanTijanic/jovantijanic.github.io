@@ -54,4 +54,9 @@ float: right;
 clear:both;
 }
 
+.myquote {
+  font-style: italic;
+  font-family: Avenir;
+}
+
 
