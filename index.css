@@ -59,4 +59,8 @@ clear:both;
   font-family: Avenir;
 }
 
+#quiz {
+position: fixed;
+  bottom: 0;
+}
 
